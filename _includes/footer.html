@@ -30,7 +30,7 @@
                           <tr>
                             <td width="100%" valign="top" style="font-size: 6px; font-weight: normal; text-align: right;" align="right" class="links-color socialLinks mobile-textcenter">
                               {% for channel in site.social %}
-                              &nbsp;<a style="display: inline-block; color: #cccccc; color: {{site.style.footer.color}}; text-decoration: underline;" target="_new" href="{{channel.link}}"><img border="0" style="border: 0px; display: inline-block; vertical-align: top; padding-bottom: 0px; padding-left: 10px" src="{{channel.icon}}" width="24" height="24" alt="{{channel.title}}"></a>
+                              &nbsp;<a style="display: inline-block; color: #cccccc; color: {{site.style.footer.color}}; text-decoration: underline;" target="_new" href="{{channel.link}}"><img border="0" style="border: 0px; display: inline-block; vertical-align: top; padding-bottom: 0px; padding-left: 10px" src="{{channel.icon | absolute_url}}" width="24" height="24" alt="{{channel.title}}"></a>
                               {% endfor %}
                             </td>
                           </tr>
