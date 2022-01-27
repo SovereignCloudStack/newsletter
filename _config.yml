@@ -1,12 +1,13 @@
 title: Sovereign Cloud Stack
 
-url: https://scs.community/
+url: https://sovereigncloudstack.github.io
+baseurl: /newsletter/
 
 permalink: pretty
 
 digest:
   header: |
-    The latest announcements, information and event hints from the SCS Community condensed for you!
+    The latest announcements, information and event hints from the SCS community condensed for you!
   
 unsubscribe:
   title: Unsubscribe
