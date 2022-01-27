@@ -3,13 +3,24 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
   {% include head.html %}
-  <body bgcolor="#7d7d82" text="#fff" alink="#fff" vlink="#fff" style="margin: 0; padding: 0; background-color: #7d7d82; color: #fff;">
+  <body bgcolor="{{site.style.footer.background-color}}" text="{{site.style.footer.color}}" alink="{{site.style.footer.color}}" vlink="{{site.style.footer.color}}" style="margin: 0; padding: 0; background-color: {{site.style.footer.background-color}}; color: {{site.style.footer.color}};">
     <center>
       {% include preheader.html %}
+      
       {% include header.html %}
-      {% include intro.html %}
-      {% include highlight.html %}
-      {% include substories.html %}
+      
+      {% if page.intro %}
+        {% include intro.html %}
+      {% endif %}
+      
+      {% if page.highlight %}
+        {% include highlight.html %}
+      {% endif %}
+      
+      {% if page.substories %}
+        {% include substories.html %}
+      {% endif %}
+      
       {% include footer.html %}
     </center>
   </body>

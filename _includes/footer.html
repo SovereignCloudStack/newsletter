@@ -1,4 +1,4 @@
-<table role="presentation" class="vb-outer" width="100%" cellpadding="0" border="0" cellspacing="0" bgcolor="#7d7d82" style="background-color: #7d7d82;" id="ko_socialBlock_6">
+<table role="presentation" class="vb-outer" width="100%" cellpadding="0" border="0" cellspacing="0" bgcolor="{{site.style.footer.background-color}}" style="background-color: {{site.style.footer.background-color}};" id="ko_socialBlock_6">
   <tbody>
     <tr>
       <td class="vb-outer" align="center" valign="top" style="padding-left: 9px; padding-right: 9px; font-size: 0;">
@@ -15,7 +15,7 @@
                       <table role="presentation" class="vb-content" border="0" cellspacing="9" cellpadding="0" style="border-collapse: separate; width: 100%; mso-cellspacing: 9px; border-spacing: 9px; -yandex-p: calc(2px - 3%);" width="276" align="left">
                         <tbody>
                           <tr>
-                            <td class="long-text links-color" width="100%" valign="top" align="left" style="font-weight: normal; color: #fff; font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: left;">
+                            <td class="long-text links-color" width="100%" valign="top" align="left" style="font-weight: normal; color: {{site.style.footer.color}}; font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: left;">
                               <small>{{site.footer.disclaimer}}</small>
                             </td>
                           </tr>      
@@ -30,7 +30,7 @@
                           <tr>
                             <td width="100%" valign="top" style="font-size: 6px; font-weight: normal; text-align: right;" align="right" class="links-color socialLinks mobile-textcenter">
                               {% for channel in site.social %}
-                              &nbsp;<a style="display: inline-block; color: #cccccc; color: #fff; text-decoration: underline;" target="_new" href="{{channel.link}}"><img border="0" style="border: 0px; display: inline-block; vertical-align: top; padding-bottom: 0px; padding-left: 10px" src="{{channel.icon}}" width="24" height="24" alt="{{channel.title}}"></a>
+                              &nbsp;<a style="display: inline-block; color: #cccccc; color: {{site.style.footer.color}}; text-decoration: underline;" target="_new" href="{{channel.link}}"><img border="0" style="border: 0px; display: inline-block; vertical-align: top; padding-bottom: 0px; padding-left: 10px" src="{{channel.icon}}" width="24" height="24" alt="{{channel.title}}"></a>
                               {% endfor %}
                             </td>
                           </tr>
@@ -51,7 +51,7 @@
   </tbody>
 </table>
 
-<table role="presentation" class="vb-outer" width="100%" cellpadding="0" border="0" cellspacing="0" bgcolor="#7d7d82" style="background-color: #7d7d82;" id="ko_footerBlock_2">
+<table role="presentation" class="vb-outer" width="100%" cellpadding="0" border="0" cellspacing="0" bgcolor="{{site.style.footer.background-color}}" style="background-color: {{site.style.footer.background-color}};" id="ko_footerBlock_2">
   <tbody>
     <tr>
       <td class="vb-outer" align="center" valign="top" style="padding-left: 9px; padding-right: 9px; font-size: 0;">
@@ -65,10 +65,10 @@
                     <table role="presentation" class="vb-content" border="0" cellspacing="9" cellpadding="0" style="border-collapse: separate; width: 100%; mso-cellspacing: 9px; border-spacing: 9px;" width="552">
                       <tbody>
                         <tr>
-                          <td width="100%" valign="top" align="center" style="font-weight: normal; color: #fff; font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center;">
-                            <a href="{{site.footer.imprint.link}}" style="color: #fff; text-decoration: underline; padding-right: 30px;" target="_new">{{site.footer.imprint.title}}</a>
-                            <a href="{{site.footer.dataprotection.link}}" style="color: #fff; text-decoration: underline; padding-right: 30px;" target="_new">{{site.footer.dataprotection.title}}</a>
-                            <a href="{{site.unsubscribe.link}}" style="color: #fff; text-decoration: underline;" target="_new">{{site.unsubscribe.title}}</a>
+                          <td width="100%" valign="top" align="center" style="font-weight: normal; color: {{site.style.footer.color}}; font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center;">
+                            <a href="{{site.footer.imprint.link}}" style="color: {{site.style.footer.color}}; text-decoration: underline; padding-right: 30px;" target="_new">{{site.footer.imprint.title}}</a>
+                            <a href="{{site.footer.dataprotection.link}}" style="color: {{site.style.footer.color}}; text-decoration: underline; padding-right: 30px;" target="_new">{{site.footer.dataprotection.title}}</a>
+                            <a href="{{site.unsubscribe.link}}" style="color: {{site.style.footer.color}}; text-decoration: underline;" target="_new">{{site.unsubscribe.title}}</a>
                           </td>
                         </tr>
                       </tbody>

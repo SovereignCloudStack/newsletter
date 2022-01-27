@@ -1,5 +1,13 @@
 title: Sovereign Cloud Stack
 
+url: https://scs.community/
+
+permalink: pretty
+
+digest:
+  header: |
+    The latest announcements, information and event hints from the SCS Community condensed for you!
+  
 unsubscribe:
   title: Unsubscribe
   link: https://scs.sovereignit.de/mailman3/accounts/login/?next=/mailman3/postorius/lists/announce.lists.scs.community/
@@ -32,3 +40,16 @@ social:
   - title: Feed
     icon: /assets/images/rss.png
     link: https://scs.community/feed.xml
+    
+style:
+  background-color: "#f8f9fa"
+  content:
+    background-color: "#ffffff"
+    color: "#343a40"
+  footer:
+    background-color: "#7d7d82"
+    color: "#ffffff"
+  buttons:
+    border-radius: 4px
+    background-color: "#7d7d82"
+    color: "#ffffff"
