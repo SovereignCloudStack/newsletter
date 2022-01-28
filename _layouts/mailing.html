@@ -1,0 +1,45 @@
+---
+---
+From: Eduard Itrich <itrich@osb-alliance.com>
+To: Eduard Itrich <itrich@osb-alliance.com>
+X-Unsent: 1
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="{{page.multipart_boundary}}"
+Content-Class: urn:content-classes:message
+
+This is a multi-part message in MIME format.
+
+--{{page.multipart_boundary}}
+Content-Type: text/plain;
+  charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Sovereign Cloud Stack
+Community Digest #{{page.issue}}
+====================
+{% if page.frontmatter.intro %}
+{{page.frontmatter.intro}}
+{% endif %}
+{% if page.frontmatter.highlight %}
+{{page.frontmatter.highlight.title}}
+--------------------
+
+{{page.frontmatter.highlight.text}}
+{{page.frontmatter.highlight.button.text}} » {{page.frontmatter.highlight.button.link}}
+{% endif %}
+{% for story in page.frontmatter.substories %}
+{{story.title}}
+--------------------
+
+{{story.text}}
+{{story.button.text}} » {{story.button.link}}
+
+{% endfor %}
+--{{page.multipart_boundary}}
+Content-Type: text/html;
+  charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+{{page.html_content}}
+
+--{{page.multipart_boundary}}--
