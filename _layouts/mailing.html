@@ -29,15 +29,15 @@ Community Digest #{{page.issue}}
 
 {{page.frontmatter.highlight.text | strip_html}}
 
-{{page.frontmatter.highlight.button.text}} » {{page.frontmatter.highlight.button.link}}
+{{page.frontmatter.highlight.button.text}}: {{page.frontmatter.highlight.button.link}}
 {% endif %}
 {% for story in page.frontmatter.substories %}
 {{story.title}}
 --------------------
 
-{{story.text}}
+{{story.text | strip_html}}
 
-{{story.button.text}} » {{story.button.link}}
+{{story.button.text}}: {{story.button.link}}
 
 {% endfor %}
 --{{page.multipart_boundary}}
