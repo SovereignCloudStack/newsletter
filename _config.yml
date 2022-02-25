@@ -54,3 +54,15 @@ style:
     border-radius: 4px
     background-color: "#7d7d82"
     color: "#ffffff"
+
+twitter:
+  username: scs_osballiance
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default-card.jpg
+    
+plugins:
+  - jekyll-seo-tag
