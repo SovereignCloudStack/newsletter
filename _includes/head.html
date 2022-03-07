@@ -28,7 +28,12 @@
   <link rel="mask-icon" color="#50c3a5" href="{{ "/safari-pinned-tab.svg" | prepend: site.baseurl }}" />
   <meta name="msapplication-TileColor" content="#50c3a5">
   <meta name="theme-color" content="#ffffff">
+  <!-- Set title -->
+  {% assign title = site.title | append: " | Community Digest #" | append: page.name | remove: ".md" %}
   {% seo title=false %}
-  <title>{{site.title}} | Community Digest #{{page.name | remove: ".md"}}</title>
+  <title>{{ title }}</title>
+  <meta property="og:title" content="{{title}}">
+  <meta property="twitter:title" content="{{title}}">
+  <!-- End Set title -->
   {% include style.html %}
 </head>
