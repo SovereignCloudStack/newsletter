@@ -26,6 +26,9 @@ social:
   - title: Twitter
     icon: /assets/images/twitter.png
     link: https://twitter.com/scs_osballiance
+  - title: Mastodon
+    icon: /assets/images/mastodon.png
+    link: https://fosstodon.org/web/@sovereigncloudstack#
   - title: LinkedIn
     icon: /assets/images/linkedin.png
     link: https://www.linkedin.com/showcase/sovereigncloudstack
@@ -35,9 +38,6 @@ social:
   - title: Matrix
     icon: /assets/images/matrix.png
     link: https://matrix.to/#/!TiDqlLmEUaXqTemaLc:matrix.org?via=matrix.org
-  - title: Mailing list
-    icon: /assets/images/bullhorn.png
-    link: https://scs.sovereignit.de/mailman3/postorius/lists/announce.lists.scs.community/
   - title: Feed
     icon: /assets/images/rss.png
     link: https://scs.community/feed.xml
