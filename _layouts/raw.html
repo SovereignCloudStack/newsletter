@@ -1,15 +1,15 @@
 ---
 ---
-{%- if page.frontmatter.intro -%}
-{{page.frontmatter.intro | normalize_whitespace | strip_html}}
+{%- if page.intro -%}
+{{page.intro | normalize_whitespace | strip_html}}
 
 {% endif %}
-{%- if page.frontmatter.highlight -%}
-{{page.frontmatter.highlight.title}}
+{%- if page.highlight -%}
+{{page.highlight.title}}
 
-{{page.frontmatter.highlight.text | normalize_whitespace | strip_html}}
+{{page.highlight.text | normalize_whitespace | strip_html}}
 {% endif %}
-{%- for story in page.frontmatter.substories %}
+{%- for story in page.substories %}
 {{story.title}}
 
 {{story.text | normalize_whitespace | strip_html}}

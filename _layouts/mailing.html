@@ -18,18 +18,18 @@ Content-Transfer-Encoding: 8bit
 Sovereign Cloud Stack
 Community Digest #{{page.issue}}
 ========================================
-{% if page.frontmatter.intro %}
-{{page.frontmatter.intro | strip_html}}
-{%- endif -%}
-{%- if page.frontmatter.highlight %}
-{{page.frontmatter.highlight.title}}
+{% if page.intro %}
+{{page.intro | strip_html}}
+{% endif %}
+{%- if page.highlight %}
+{{page.highlight.title}}
 ****************************************
 
-{{page.frontmatter.highlight.text | strip_html}}
+{{page.highlight.text | strip_html}}
 
-{{page.frontmatter.highlight.button.text}}: {{page.frontmatter.highlight.button.link}}
+{{page.highlight.button.text}}: {{page.highlight.button.link}}
 {% endif %}
-{% for story in page.frontmatter.substories -%}
+{% for story in page.substories -%}
 {{story.title}}
 ****************************************
 
