@@ -29,7 +29,7 @@
   <meta name="msapplication-TileColor" content="#50c3a5">
   <meta name="theme-color" content="#ffffff">
   <!-- Set title -->
-  {% assign title = site.title | append: " | Community Digest #" | append: page.name | remove: ".md" %}
+  {% assign title = site.title | append: " | Community Digest #" | append: page.title | remove: ".md" %}
   {% seo title=false %}
   <title>{{ title }}</title>
   <meta property="og:title" content="{{title}}">

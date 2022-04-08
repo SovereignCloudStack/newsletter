@@ -1,28 +1,41 @@
 #!/usr/bin/env ruby
 require 'securerandom'
+require 'pathname'
 
 module Jekyll
-  class Mailing < Page
-    def initialize(site, page)
-      @site = site
-      @page = page
-      @name = 'mailing.eml'
-      self.process(@name)
-      self.read_yaml(File.join(site.source, '_layouts'), 'mailing.html')
-      self.data['issue'] = page.basename
-      self.data['frontmatter'] = page.data
+  class Mailing < Document
+    def initialize(document, dest)
+      @data = document.data
+      self.data['layout'] = "mailing"
+      self.data['issue'] = document.basename_without_ext
       self.data['multipart_boundary'] = SecureRandom.hex
-      self.data['html_content'] = page.output
+      self.data['html_content'] = document.output
+      @renderer = Jekyll::Renderer.new(document.site, document)
+      @output = self.renderer.run
+      self.write(dest)
+    end
+    def destination(dest)
+      path = Pathname.new(dest) + "mailing.eml"
     end
   end  
-    
-  Jekyll::Hooks.register :site, :post_write do |site|
-    site.pages.each do |page|
-      Jekyll.logger.info "Generating mailing for #{page.path}"
-      dest = site.dest + page.dir
-      mailing = Mailing.new(site, page)
-      mailing.render(site.layouts, site.site_payload)
-      mailing.write(dest)
+  
+  class Raw < Document
+    def initialize(document, dest)
+      @data = document.data
+      self.data['layout'] = "raw"
+      self.data['issue'] = document.basename_without_ext
+      @renderer = Jekyll::Renderer.new(document.site, document)
+      @output = self.renderer.run
+      self.write(dest)
     end
+    def destination(dest)
+      path = Pathname.new(dest) + "raw.txt"
+    end
+  end
+    
+  Jekyll::Hooks.register :digest, :post_write do |document|
+    dest = Pathname.new(document.site.dest) + document.collection.label + document.basename_without_ext
+    mailing = Mailing.new(document, dest)
+    raw = Raw.new(document, dest)
   end  
 end

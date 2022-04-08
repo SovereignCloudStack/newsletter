@@ -3,11 +3,8 @@ title: Sovereign Cloud Stack
 url: https://sovereigncloudstack.github.io
 baseurl: /newsletter
 
-permalink: pretty
-
-digest:
-  header: |-
-    The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
+description: |-
+  The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
   
 unsubscribe:
   title: Unsubscribe
@@ -57,12 +54,26 @@ style:
 
 twitter:
   username: scs_osballiance
+  
+author: "Sovereign Cloud Stack"
+
+collections:
+  digest:
+    output: true
+    permalink: /digest/:title/index.html
 
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/images/default-card.jpg
-    
+
+feed:
+  path: ""
+  collections:
+    digest:
+      path: "/feed.xml"
+
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
