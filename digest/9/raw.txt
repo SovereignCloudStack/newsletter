@@ -1,0 +1,13 @@
+Community, with big steps we are moving towards the release of R2, which will presumably be published on March 23rd. We will now use the remaining weeks to write release notes, create an announcement campaign, have a look at the progress of still open user stories and to clean up the board together with the technical teams. We hope for your support as well as your commitment and would be happy to see you around in the upcoming team meetings. Let's give it all we got and make the upcoming release a great success for digital sovereignty in Europe and beyond! Are you in? Check our public calendar to see where you can support. Thank you!
+
+Progress of IAM SIG
+
+The open hacking sessions every Friday afternoon as well as the efforts of the IAM SIG (Identity and Access Management Special Interest Group) are having an impact! For instance, the changes proposed by Arvid to get JWT bearer tokens working with keystone using the openstack-cli client have been accepted by the OSISM team. We thank everyone who contributed to this feature!
+
+secunet joins OSB Alliance
+
+Germany's leading Cybersecurity company secunet Security Networks AG recently joined the Open Source Business Alliance. In an interview, CTO Kai Martius talks about the reasons for joining and why this is also related to the Sovereign Cloud Stack project.
+
+Join us at the FOSS Backstage
+
+Want to meet members of your beloved community? Eduard and Felix will be around at the FOSS Backstage in Berlin on 17-18 March. The program looks very promising!

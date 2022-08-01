@@ -1,0 +1,21 @@
+Community,  we're already back in full work mode and are preparing for the upcoming development of R3. The retrospectives have helped us a lot to further optimize this process. This digest is to inform you about the upcoming changes and what else we have planned to make our community experience amazing. See you soon during our team meetings!
+
+Moving to GitHub Projects
+
+Your complaints have been heard. We decided to give GitHub projects a shot so that we can offer you a single entry point for contributing. The upcoming release will be planned in the public "Sovereign Cloud Stack R3" project on GitHub. With this attempt we hope not only to reduce the number of tools, but also to make our work more transparent and traceable!
+
+Welcome Bianca!
+
+We are delighted that Bianca joined our team on April and will be actively supporting us in the project administration and documentation. Awesome that you are here with us. Welcome on board!
+
+Thank you for the feedback
+
+After the successful release of R2, we conducted retrospectives in the teams last week. Thank you for the trustful exchange and the exciting results. It is now up to all of us to implement these good ideas as part of a continuous improvement process. The links on the slides will take you to the detailed boards. We're now looking forward to the planning of R3 and our daily work.
+
+Monthly onboarding session
+
+Want to join our community, but not quite sure where to start? Join our new format of monthly onboarding sessions and learn how you can contribute to Sovereign Cloud Stack. The next session is scheduled for Friday, 2022-05-06 at 15:00 CET.
+
+Are we done yet?
+
+We would like to use the start of the new release cycle to have a critical review of our common "Definition of Done". Kurt has made a very good first submission and is appreciating any feedback or amendments. This list will extend our standard template for new user stories and contribute to the quality of our development work.
