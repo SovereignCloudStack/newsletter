@@ -3,9 +3,30 @@ title: Sovereign Cloud Stack
 url: https://sovereigncloudstack.github.io
 baseurl: /newsletter
 
-description: |-
-  The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
-  
+headline:
+  digest: Community Digest
+  journal: Contributor's Journal
+
+description:
+  digest: |-
+    The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
+  journal: |-
+    Your contributor's journal on open issues, thriving discussions and pendig reviews for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
+
+calltoaction:
+    - slug: "beginner"
+      title: "Good first issues"
+      logo: code-of-conduct
+    - slug: "issues"
+      title: "Open issues"
+      logo: issue-opened
+    - slug: "review"
+      title: "Review needed"
+      logo: code-review
+    - slug: "other"
+      title: "Other"
+      logo: "megaphone"
+
 unsubscribe:
   title: Unsubscribe
   link: https://scs.sovereignit.de/mailman3/postorius/accounts/list-options/scs-member.lists.scs.community/
@@ -18,7 +39,7 @@ footer:
   dataprotection:
     title: Data Protection Statement
     link: https://scs.community/dataprotection/
-  
+
 social:
   - title: Twitter
     icon: /assets/images/twitter.png
@@ -38,7 +59,7 @@ social:
   - title: Feed
     icon: /assets/images/rss.png
     link: https://scs.community/feed.xml
-    
+
 style:
   background-color: "#f8f9fa"
   content:
@@ -54,13 +75,16 @@ style:
 
 twitter:
   username: scs_osballiance
-  
+
 author: "Sovereign Cloud Stack"
 
 collections:
   digest:
     output: true
     permalink: /digest/:title/index.html
+  journal:
+    output: true
+    permalink: /journal/:title/index.html
 
 defaults:
   - scope:
@@ -72,8 +96,11 @@ feed:
   path: ""
   collections:
     digest:
-      path: "/feed.xml"
+      path: "/digest/feed.xml"
+    journal:
+      path: "/journal/feed.xml"
 
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-octicons

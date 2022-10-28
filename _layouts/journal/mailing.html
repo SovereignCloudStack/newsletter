@@ -1,0 +1,44 @@
+---
+---
+Content-Language: en-US
+From: %FROM_ADDRESS%
+Organization: Open Source Business Alliance e.V.
+To: %TO_ADDRESS%
+Subject: SCS Contributor's Journal #{{page.issue}}
+Date: %DATE%
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="{{page.multipart_boundary}}"
+Content-Class: urn:content-classes:message
+Message-Id: <%MESSAGEID%>
+
+This is a multi-part message in MIME format.
+
+--{{page.multipart_boundary}}
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Sovereign Cloud Stack
+Contributor's Journal #{{page.issue}}
+========================================
+{% if page.intro %}
+{{page.intro | strip_html}}
+{% endif %}
+
+{%- for type in site.calltoaction -%}
+{% if page[type.slug] %}
+{{ type.title }}
+****************************************
+{% endif %}
+{%- for action in page[type.slug] %}
+* {{ action.title }}
+{{ action.description | strip_html}}
+URL: {{ action.link }}
+
+{% endfor -%}
+{%- endfor -%}
+--{{page.multipart_boundary}}
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+{{page.html_content}}
+--{{page.multipart_boundary}}--

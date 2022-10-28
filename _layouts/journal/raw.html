@@ -1,0 +1,20 @@
+---
+---
+Contributor's Journal #{{page.issue}}
+========================================
+{% if page.intro %}
+{{page.intro | strip_html}}
+{% endif %}
+
+{%- for type in site.calltoaction -%}
+{% if page[type.slug] %}
+{{ type.title }}
+****************************************
+{% endif %}
+{%- for action in page[type.slug] %}
+* {{ action.title }}
+{{ action.description | strip_html }}
+URL: {{ action.link }}
+
+{% endfor -%}
+{%- endfor -%}
