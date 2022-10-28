@@ -3,11 +3,29 @@ title: Sovereign Cloud Stack
 url: https://sovereigncloudstack.github.io
 baseurl: /newsletter
 
+headline:
+  digest: Community Digest
+  journal: Contributor's Journal
+
 description:
   digest: |-
     The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
   journal: |-
-    Your contributor's journal on open issues, thriving discussions and further call-to-action for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
+    Your contributor's journal on open issues, thriving discussions and pendig reviews for you at a glance! Together we build tomorrow's federated cloud technology &mdash; putting users and providers in control.
+
+calltoaction:
+    - slug: "beginner"
+      title: "Good first issues"
+      logo: code-of-conduct
+    - slug: "issues"
+      title: "Open issues"
+      logo: issue-opened
+    - slug: "review"
+      title: "Review needed"
+      logo: code-review
+    - slug: "other"
+      title: "Other"
+      logo: "megaphone"
 
 unsubscribe:
   title: Unsubscribe
@@ -85,3 +103,4 @@ feed:
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-octicons
