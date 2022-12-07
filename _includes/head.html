@@ -19,7 +19,7 @@
       })();
     }
   </script>
-  End Matomo Code -->  
+  End Matomo Code -->
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="{{ "/apple-touch-icon.png" | prepend: site.baseurl }}" />
   <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32x32.png" | prepend: site.baseurl }}" />
@@ -28,12 +28,22 @@
   <link rel="mask-icon" color="#50c3a5" href="{{ "/safari-pinned-tab.svg" | prepend: site.baseurl }}" />
   <meta name="msapplication-TileColor" content="#50c3a5">
   <meta name="theme-color" content="#ffffff">
-  <!-- Set title -->
-  {% assign title = site.title | append: " | Community Digest #" | append: page.title | remove: ".md" %}
-  {% seo title=false %}
+
+  {% if page.collection == "digest" %}
+    {% assign title = site.title | append: " | " | append: site.headline.digest | append: " #" | append: page.title | remove: ".md" %}
+    {% assign description = site.description.digest %}
+  {% elsif page.collection == "journal" %}
+    {% assign title = site.title | append: " | " | append: site.headline.journal | append: " #" | append: page.title | remove: ".md" %}
+    {% assign description = site.description.journal %}
+  {% endif %}
+
   <title>{{ title }}</title>
   <meta property="og:title" content="{{title}}">
   <meta property="twitter:title" content="{{title}}">
-  <!-- End Set title -->
+  <meta name="description" content="{{description}}" />
+  <meta property="og:description" content="{{description}}" />
+  {% seo %}
+  {% feed_meta %}
+
   {% include style.html %}
 </head>
