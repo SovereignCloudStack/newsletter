@@ -5,3 +5,5 @@ gem "jekyll"
 gem "jekyll-seo-tag", path: "_gems/jekyll-seo-tag"
 gem "jekyll-feed"
 gem 'jekyll-octicons'
+# See https://github.com/helaili/jekyll-action/issues/150
+gem "jekyll-sass-converter", "~> 2.0"
