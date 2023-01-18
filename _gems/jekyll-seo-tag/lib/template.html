@@ -21,7 +21,7 @@
 {% endif %}
 
 {% if seo_tag.image %}
-  <meta property="og:image" content="{{ seo_tag.image.path }}" />
+  <meta property="og:image" content="{{ seo_tag.image.path | prepend: site.baseurl_root | absolute_url }}" />
   {% if seo_tag.image.height %}
     <meta property="og:image:height" content="{{ seo_tag.image.height }}" />
   {% endif %}
@@ -49,7 +49,7 @@
 
 {% if seo_tag.image %}
   <meta name="twitter:card" content="{{ page.twitter.card | default: site.twitter.card | default: "summary_large_image" }}" />
-  <meta property="twitter:image" content="{{ seo_tag.image.path }}" />
+  <meta property="twitter:image" content="{{ seo_tag.image.path | prepend: site.baseurl_root | absolute_url }}" />
 {% else %}
   <meta name="twitter:card" content="summary" />
 {% endif %}
