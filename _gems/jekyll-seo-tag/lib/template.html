@@ -20,6 +20,9 @@
   <meta property="og:site_name" content="{{ seo_tag.site_title }}" />
 {% endif %}
 
+<meta property="og:description" content="The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology — putting users and providers in control." />
+<meta name="twitter:description" content="The latest announcements, information, and events from the SCS community for you at a glance! Together we build tomorrow's federated cloud technology — putting users and providers in control." />
+
 {% if seo_tag.image %}
   <meta property="og:image" content="{{ seo_tag.image.path | prepend: site.baseurl_root | absolute_url }}" />
   {% if seo_tag.image.height %}
