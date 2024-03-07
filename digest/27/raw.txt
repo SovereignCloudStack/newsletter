@@ -1,0 +1,29 @@
+What a year, huh?* We hope that you all had a great time in Nuremberg and enjoyed meeting our community on-site. What was your personal highlight during the SCS Hackathon last week? Let us and the rest of the world know! The latest Community Digest shares the most important news from our community and gives you a highlight of the awesome events that are awaiting you the next days. Join us – we're open! *) Captain, it's March!
+
+Sovereign Cloud Stack Community Summit 2023
+
+Dear Friends of SCS and interested Observers, The Sovereign Cloud Stack is now in its second year successfully building a community to develop and maintain a standardized open source cloud computing stack. Success means that we have released the fourth version and that by now three cloud service providers base their offering on SCS standards and technology. Reason enough to call for our first summit on 23rd and 24th of May 2023 in Berlin for users, developers, adopters and everybody, who is affiliated to this project to gather, share knowledge, as well as experience and to – of course – network and have fun.
+
+SCS Team FOSDEM 2023 - Travel Report
+
+Felix, Max and Kurt attended this year's biggest FOSS conference in Europe – FOSDEM. Read more in their travel report on what our team learned during these two awesome days and who they met in Brussels.
+
+Performance impact of disk encryption using LUKS
+
+Paul-Philipp Kuschy from OSISM GmbH wrote an excellent blog post on the performance impact of disk encryption using LUKS in CEPH. Have a look at his benchmarks, the very detailed analysis, and the script he published for self-testing.
+
+CHAOSS at SCS
+
+A wild lightning talk appeared! Georg Link from Bitergia will introduce us into the Community Health Analytics in Open Source Software (CHAOSS) project on 2023-03-30. We're looking forward to connecting!
+
+OSBA Members & Products
+
+Join us during this SCS Special Edition of the OSBA Members & Products series. Learn more about our standardization approach and what has been achieved so far. The talk will be in German.
+
+Hands-On Session: SCS from the ground up
+
+Due to high demand, we will offer a third hands-on session on "SCS from the ground up". Join us on Friday, 2023-03-10 at 13:05 CET and learn how to deploy a SCS testbed, create Kubernetes clusters and how everything works nicely together. This is the ideal session to kick-start your journey on becoming a SCS-afficiando!
+
+Automatic compliance check for SCS cloud environments
+
+Did you know that we have released an easy-to-use Docker image for testing cloud environments against our jointly defined standards? Wavestack und pco are already tested nightly to assure compliance. Join our community to become part of this important mission and create one platform – standardized, built and operated by many.

@@ -1,0 +1,21 @@
+Dear Community, this autumn will be great! We will have our next release R5 at 2023-09-20. We will talk and present on several events. A new provider will celebrate their SCS instance. We will have our sport event. We will meet in Dresden at our third big hackathon. You are always invited to join us! I´m excited! Friederike
+
+Let´s operate openly!
+
+We come from building a network of operators who share knowledge on operating cloud & container infrastructure. But the topic is broader: we meet monthly with DevOps, Ops team members and all who are interested in automating and operating IT solutions in modern cloud environments. We want to talk about our practical approach, about best practices, failures and how to avoid them, setups, ... The more people are sharing their knowledge and experiences the better!
+
+New CPU leaks
+
+A new set of hardware CPU speculation vulnerabilities were uncovered in July/August 2023. They do create risks for information disclosure for providers and users of SCS clouds. This blog article explains the issues, the associated risks and how these can be mitigated by providers and users.
+
+Move for Good
+
+This year our sport event is also a social event as we donate the collected money to a voluntary project which supports refugies with technical devices and knowledge. We love to share knowledge, so this is a great project to donate to. Thanks to our sponsors!
+
+Save the date
+
+Sign up for our SCS Hackathon #3 happen on 2023-11-08 in Dresden at Cloud & Heat! CLOUD&HEAT Technologies GmbH, Königsbrücker Str. 96/Halle 15, 01099 Dresden. Save the date! At the 7th of November we will meet with all attendees who already arrived in Dresden. Reach out to [Friederike](zelke@osb-alliance.com) to sign up for the Hackathon and the community meeting at the 7th of Novemver!
+
+GXFS Connect
+
+Meet SCS at the GXFS Connect in Berlin on the 5th and 6th of September. Right from the beginning SCS and Gaia-X were strongly connected, that´s why we are happy to talk about our network for digital sovereignty and the federation services. We would love to meet you there.
