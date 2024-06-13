@@ -1,0 +1,21 @@
+Community, time is running and the coming weeks are full of exciting dates! We have fixed an official release date for R3, created worth reading content for you and opened registration for our annual Community Triathlon. This and more in the twentieth issue of our SCS Community Digest.
+
+Community Triathlon 2022
+
+Remember when we gathered for a Community Run last year? More than thirty members of our community competed in a 10K race during the autumn’s Running Days. We have proven that Sovereign Cloud Stack is running both — on the ground and in the cloud. Thank you for participating in this first athletic event within our community! Yes, exactly – it’s happening again! We kindly invite you to participate in our upcoming Community Triathlon this year. Let’s prove once again that we not only perform exceptionally well as technical squads, but also as sports teams. Like last year there will be shirts for our participants. Sign up now for our Community Triathlon, availability of our goodies package is limited. We would like to thank B1 Systems GmbH and Univention GmbH for making the shirts possible this year!
+
+SCS Infrastructure KeylessGo
+
+Mathias from OSISM has written a very interesting article on how disks can automatically be encrypted and thus protected from unauthorized access in SCS.
+
+Introducing github-manager
+
+Thanks to the preliminary work from our friends at OTC and the extensive support by Tim from OSISM GmbH, we’re introducing a new way to manage our repositories and our Sovereign Cloud Stack organization on GitHub.
+
+Release date fixed
+
+Watch out! We have scheduled September 21, 2022 as the official release date for SCS R3. Our last release R2 had the unofficial title "Awesome Arvid". But how should we name our youngest little one? It's up to you! Send us your favorite mobster name for R3! What about Beholden Beermanns?
+
+We asked... Why was Sovereign Cloud Stack initiated?
+
+Let's listen to Peter Ganten, CEO of Univention and Chairman of the OSB Alliance (Open Source Business Alliance) Board, about how SCS enables end user organizations and cloud service providers, alike, to operate scalable, modern cloud services.

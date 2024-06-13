@@ -1,0 +1,13 @@
+Community, after 6 labor-intensive months, yet another release day is waiting around the corner. SCS R2 (also known as Awesome Arvid among aficionados) will officially be published next Wednesday, March 23. We will use this week's team meetings to clean up the board. The following week, we will have a retrospective to celebrate the successes of the past sprints and discuss what can be improved. Please take yourself a few minutes and give us a KISS: What should be (K)ept, (I)mproved, (S)tarted or (S)topped?
+
+Why Digital Sovereignty is more than mere Legal Compliance
+
+In the latest issue of The Cloud Report, Kurt, Felix, and Eduard share some of their thoughts on digital sovereignty and why it requires more than mere legal compliance. Above all, we need freedom of choice, open source and competence! You can now read the whole article on our SCS community blog. Any feedback on our ideas are greatly appreciated!
+
+Gaia-X Hackathon #3
+
+Watch out! The third Gaia-X Hackthon will take place on March 28th and 29th and we are once again involved!. In our ACME track, a Gaia-X compliant provider will be bootstrapped. The goal of this track is to demonstrate a green-field approach in which a Cloud provider infrastructure is created from bare metal; our core focus is to provide extended self-descriptions for the new Cloud provider and to challenge/sketch on-boarding processes.
+
+New Lightning Talks announced
+
+After some teething problems, our Lightning Talk format has become very well established. This week, Felix will demonstrate what the SIG Monitoring has been working on during the last months. On March 31, Jonas will showcase the OpenStack and SecuStack Lifecycle Management Tool yaook and on April 7, Eduard will give a quick overview of jekyll and how it is used to build the SCS website and this newsletter.
