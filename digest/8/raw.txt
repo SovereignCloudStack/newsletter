@@ -1,0 +1,13 @@
+Community, in light of current events, the news from our small community seem trivial and small. We hope that our friends from Sardina Systems are all well. Our thoughts are with you!
+
+Gaia-X Hackthon #3
+
+Watch out! The third Gaia-X Hackthon will take place on March 28th and 29th and we are once again involved!. In our ACME track, a Gaia-X compliant provider will be bootstrapped. The goal of this track is to demonstrate a green-field approach in which a Cloud provider infrastructure is created from bare metal; our core focus is to provide extended self-descriptions for the new Cloud provider and to challenge/sketch on-boarding processes.
+
+New Lightning Talks announced!
+
+Heads up, community! We're very excited to announce two new Lightning Talks following up next week and the week after. On Thursday, March 03 Christian will give us an insight into Netbox and the Ironic Integration. On the following Thursday, March 10, Felix will present what the Monitoring SIG has been working on in the last months. This much I can tell you: Men who stare at dashboards.
+
+Your feedback is wanted!
+
+We're currently in the process of defining a proposal for GitOps style IaC for Cluster Management. Please have a look at the below linked pull request and give us your feedback on the current draft! You still have questions or want to discuss certain aspects in-person? Join the team meeting, every Monday at 10:00 CET. We are looking forward to seeing you around!

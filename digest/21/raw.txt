@@ -1,0 +1,21 @@
+Community, the award for the coolest rock star this week goes to... 🥁 ... Felix! Our audience rocking Product Owner succeeded in promoting our project at multiple opportunities. Thank you for spreading the word! Read more about our recent activities and further great announcements from our project in this new issue of our Community Digest. In the meantime, we will warm up, both for the upcoming release and for our triathlon. We hope to see you around at both occasions!
+
+Community Triathlon 2022
+
+Have you already registered for our Community Triathlon in October? You can sign up for this event until the end of this week. Don't miss this year's chance to claim a free SCS shirt and of course having a lot of fun with us and your team! Are you still arguing with your mates about how to slice the teams or who will cover which discipline? Nevermind, you can still decide on this later. It is only important that you register in time, so that we can send out the goodies packages to you in advance. Simply leave a whitespace in the team field and provide your team name later during submission.
+
+Felix at Open Source Couch
+
+Felix was invited to the Open Source Couch - a German-language podcast about news from the open source industry - and talked about Sovereign Cloud Stack and the Open Source Business Alliance.
+
+Observability in SCS
+
+Main scope of the SIG Monitoring is the observability of SCS platforms. Felix wrote an interesting article for the German Linux Magazin about what has been achieved so far.
+
+Welcome Alex!
+
+We have great news to share: Alexander Diab joined our project team last week as our new Ecosystem Manager. He'll be coordinating the downstream activities for the Sovereign Cloud Stack. Please give him a warm welcome!
+
+SCS at GXFS Connect 2022
+
+This week our team will attend the GXFS Connect 2022 event and give a short talk on Sovereign Cloud Stack. Interested in learning more about Gaia-X and the Federation Services? The conference will be streamed and registration is still possible.

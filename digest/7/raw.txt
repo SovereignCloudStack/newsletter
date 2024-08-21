@@ -1,0 +1,13 @@
+Community, did you also feel like you had a "Call for Participation" marathon last weeks? We are probably all in the process of preparing for upcoming (on-site) events this coming spring and summer. What are your highlights and what are you most looking forward to?  We would like to start planning this year's SCS Community Summit and find the ideal opportunity. Please take a few seconds to fill out the following survey. &#128073;  What events are you attending this year? Thank you very much, this helps a lot!
+
+Wallaby Update Experience
+
+Since more then one year plusserver has provided the Sovereign Cloud Stack Community Environment which is based on osism OpenStack Distrubution. This testbed is used intensively for our development work, tests, demonstrations, or events such as the last two  Gaia-X Hackathons.  Mathias, Markus and Toens started the OpenStack Wallaby upgrade in early December 2021 and just published a blog post on their upgrade experience.  Check out our community blog to find out what problems they ran into and what the current status is!
+
+New open positions
+
+We've just published two new positions on our homepage. Would you like to be part of our project team at the  Open Source Business Alliance? Apply now for the open roles as Cloud Monitoring and Test Engineer or as Product Owner Standards and Federation for the Sovereign Cloud Stack project! We will be posting more information on these positions very soon. You don't want to wait? Contact us, we are looking forward to meeting you!
+
+FOSS Asia Virtual Summit 2022
+
+Did you know that Felix will talk about the current state of the SCS project at the FOSS Asia Virtual Summit 2022? The FOSSASIA Summit is a unique event with a broad range of open technology topics such as web and mobile technologies, cloud services, Open Hardware and production, privacy, security, digital sovereignty, DevOps, Open Source licences and compliance, Open Source culture and circular economy.
