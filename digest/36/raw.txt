@@ -1,0 +1,21 @@
+Dear Community, all sails are set for the finish at the SCS Summit. This is, of course, our highlight in this Spring. But this is not our only topic! We had a wonderful fourth Community Hackathon (see below), we had a talk at the OCP Summit, we will be at the OpenInfra Days in Germany, France, Hungary, at the Cloud Expo Europe... SCS is here to stay! Be invited to stay with us!  Best wishes, Friederike and the SCS team
+
+Without you
+
+... nothing would happen! Thanks to our great sponsors of the SCS Summit 2024. But also to the whole SCS team and our wonderful community. With you we were able to set up an insightful program with exeptional speakers. With you we will learn about our progress, our future, our partners and dive into the global setup for digital sovereign infrastructure.
+
+Topic Sovereign Cloud Stack
+
+We are very happy that the German Linux Magazin chooses to cover their June issue with SCS! We and our partners introduce SCS, the idea, the advantages, the project as publicly funded software, Cluster Stacks, ... Maybe you also learn something new about your favorite open source project.
+
+OpenInfra Day
+
+One day after our SCS Summit the OpenInfra Day Germany happens at the same venue. Thanks to really fantastic proposals the team of OIF, GUUG and SCS configured a great schedule for this day, too. Thanks to wonderful and enganged sponsors we are able to invite you! Join us in Berlin.
+
+All that Glitter
+
+In our upcoming Open Operations Meetup, we delve into the often hidden security risks in software development. Using a low-code platform as an example, we illuminate how thorough security analysis can expose significant flaws that would otherwise remain undiscovered. Do you want to join the discussion?
+
+Status Page and so much more
+
+Two weeks ago our community gathered at Gonicus in Arnberg at our fourth community hackathon! Besides our intense hacking activities we had some attention from the outside: Maik Außendorfer MdB of Bündnis 90/Grüne visited us to learn about SCS, digital sovereignty and independence. Another visitor was Torsten Koch, editor from Westfalenpost who wrote a great summary of SCS and our Hackathon. But of course we also produced some great stuff, like the Status Page.

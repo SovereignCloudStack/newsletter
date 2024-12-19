@@ -1,0 +1,29 @@
+Community, with yet another successful release, we want to thank you all for contributing to our project and working towards our joint mission: standardizing, building and operating one open cloud- and container platform. After all these thrilling weeks, we wish you relaxing holidays and are already looking forward to the upcoming plans of R5. Enjoy the springtime with your loved ones.
+
+The Men Who Stare at Dashboards
+
+Four weeks ago our second Community Hackathon took place in Nuremberg. During this great event we gathered with familiar faces from our community as well as with new friends to work together on many interesting topics. All in all it was a very productive event with good discussions and lot of fun.
+
+SCS at Cloud Expo Europe
+
+In May last year, we participated at Cloud Expo Europe with our own booth to provide information about our project and to emphasize the importance of digital sovereignty in the cloud domain. We want to continue this success and invite you to join us on May 10th and 11th in Frankfurt!
+
+Join Christian at SCS Summit
+
+We're thrilled to announce the first speakers of the upcoming SCS Summit on May 23th and 24th in Berlin. Be like Christian and join the show to connect and spend a great time with your beloved community.
+
+We're open
+
+Our community is meeting every Thursday afternoon at 15:00 CEST to share insights on the teams' progress and the project's overall updates. All of our meetings are public and we'd love to welcome you to our Community Call.
+
+Community Hero Spotlight: Arvid
+
+Arvid is an open source developer working on topics of identity and access management for Univention and currently for the Sovereign Cloud Stack in particular.
+
+Four Fists for a Hallelujah
+
+Just in time for Release 4 of the SCS project, REGIO.cloud is now the fourth provider to enter the market with its own SCS cloud infrastructure. Building on the standardized and fully open Sovereign Cloud Stack, REGIO.cloud will offer further managed services for small and medium-sized enterprises.
+
+Ask me anything!
+
+Yo community! We heard you like ChatGPT, so we put ChatGPT in our documentation. Max is currently playing around with Markprompt — a platform for building GPT-powered prompts. We'd like to hear your feedback. What is your favorite prompt?

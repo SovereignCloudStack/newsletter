@@ -1,0 +1,13 @@
+Community, after a few relaxing holidays we are back in full swing and currently in the middle of the first sprints for the next release. The switch to GitHub Projects turned out very smoothly and our technical teams have already filled the boards with life. Thank you for your important work! The coming week is all about preparing for Cloud Expo Europe in Frankfurt/Main. Besides two exciting presentations by Kurt Garloff and Peter Ganten we are looking forward to present the Open Source Business Alliance and our project at booth E155. Come by - we would be happy to meet you in person again!
+
+🚨 Fostering an ecosystem
+
+You are all helping in various ways to make SCS successful and to advance our vision of an fully open, federated, compatible platform. Be it through active participation in the technical teams or in providing services around SCS. As interest in our project grows, so does the demand for specific offerings, e.g. integration, consulting or training. We would like to make these different services transparent on our website and kindly ask you to participate in this survey as soon as possible.
+
+Contribute to the success of our community
+
+We received some very good suggestions for improving the collaboration experience within our community. Many thanks to Tim for your helpful feedback! We will work on these suggestions in a newly created SIG Community. The first meeting will take place on Wednesday, 2022-05-04 at 11:05 CET within the usual Jitsi room. Feel free to join us!
+
+Monthly onboarding session
+
+Want to join our community, but not quite sure where to start? Join our new format of monthly onboarding sessions and learn how you can contribute to Sovereign Cloud Stack. The next session is scheduled for Friday, 2022-05-06 at 15:00 CET. Oh, and don't forget to loop in your colleagues who you'd also like to see in our community! See you soon!

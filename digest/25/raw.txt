@@ -1,0 +1,21 @@
+Community, we wish you all a happy new year 11111100111 and hope that you enjoyed a pleasant Christmas and holiday season. The upcoming twelve months will be anything but boring. In addition to our first major SCS Summit and the continuation of last year's successful Community Hackathon, we look forward to working with you on two major releases, a certification program, and welcoming new partners. Join us – we count on you!
+
+Insights into running Gaia-X Federation Services on Sovereign Cloud Stack
+
+Do you want to understand the Gaia-X Federation Services project and how the various services are developed on top of SCS infrastructure? Join us during a first lightning talk on Thursday, 2023-01-12 at 15:45 CET and during a follow-up deep dive session on Monday, 2023-01-16 at 15:05 CET. Don't miss this chance to learn more about the GXFS microservices, and how they are developed in interdisciplinary teams. In addition, Sven from Syself will give us an exclusive outlook on how GXFS may be deployed with one click on clusters based on Sovereign Cloud Stack using GitOps.
+
+Self-service for test and development cloud resources
+
+As discussed and planned during the last Community Hackathon, we want to simplify how you can obtain free test and development resources for all of your various SCS-related projects. PlusServer made a great step ahead and switched to this new approach. Add yourself to the table linked below and open a pull request – it's now easy as that!
+
+Save the date for our SCS Summit 2023
+
+Our preparations for the upcoming SCS Summit 2023 are under full sail. Please all save 23rd and 24th of May and preregister for two days full of exciting talks, discussions and workshops on Sovereign Cloud Stack. We're looking forward to meeting you in Berlin to share knowledge and to – of course – network and have fun together!
+
+The Fifth Open Paradigm: Open Operations
+
+Felix was invited to the Operate First MeetUp and gave an inspiring talk on Open Operations. Check out our "Sovereign Cloud Stack on Tour" playlist and learn why we urgently need a fifth element of openness. Can you spot the crab in his slides? 🦀
+
+Community Hackathon #2
+
+With great support from Wavecon and OSISM, we would like to invite you to our next official community hackathon in Nuremberg. We're happy to share more information with you within the next weeks. Until then, please mark 2022-03-02 in your calendars. It will be yet again a huge blast!

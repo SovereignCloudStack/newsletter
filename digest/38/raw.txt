@@ -1,0 +1,21 @@
+Dear Community, we hope you had a wonderful summer and are now fit for our final run! This run will be longer than expected (see below), so we will have time to recap our success and shape the future for SCS and our partners. Thanks for being a part of our community!  Best wishes, Friederike and the SCS team
+
+Going into Extension
+
+We were very happy, when the BMWK and the VDI decided to extend the SCS Project till the end of this year. So, we have time to support the adoption of R7, we finish our wonderfull new website and our docs, and make SCS even more beautiful.
+
+Missed the SCS Summit 2024?
+
+You missed our Summit this year? Or you remember a brilliant talk and would like to see it again? This is possible: All talks, discussions, and panels are now available on our YouTube channel. We also conducted interviews at the Summit, they are also published during the summer.
+
+SCS Community is gathering
+
+Shortly before the end of the BMWK funding of the Sovereign Cloud Stack project, the SCS community will meet to review the achievements of three project years, pass on the accumulated knowledge and present the diversity of SCS.
+
+Shared Knowledge
+
+Our Open Operations Meetup is part of the Open Operations Initiative. We want to share experiences and knowledge around and about operations of cloud technology. In our meetup we covered several topics and share them via our YouTube channel. It is very worth a visit.
+
+Using Flavor Manager to add missing properties
+
+In their blog post Kurt Garloff and Matthias Büchse analyze the compliance checks for SCS flavor properties and give background information and hints for passing the checks.

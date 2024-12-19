@@ -1,0 +1,21 @@
+Community, how are you doing? Are you already looking forward to Christmas season or totally stressed out due to end-of-the-year rushes? With this Community Digest, we'd like to give you a brief moment of joy and highlight some exciting events within our community! But before we jump right in, a question for you: What is your motivation to contribute to Open Source and when did you start? What was your very first pull request?. We're curious and would love to hear from you. Just reply to this mail and let us know. 🤗
+
+Call for Participation: Sovereign Cloud DevRoom at FOSDEM 2023
+
+Join us during FOSDEM 2023 on February 4th and 5th in Brussels. Together with the Operate First community a Sovereign Cloud DevRoom is organized. The Sovereign Cloud DevRoom is for discussing topics and issues of user privacy and sovereignty and the intersection with the needs of infrastructure providers in the cloud computing era. This is your chance to submit a proposal for a presentation, lightning talk or BoF-Session for this DevRoom! Possible topics of your proposal might be:  Can all operations be open, or may there be a need for a two+ tier openness (country specific laws or company secrets)? How can privacy relevant data be anonymized instead of being deleted, without losing the useful information? Open Operations is more than just sharing runbooks, how is knowledge shared and fostered best across organizations? Interoperability, transparency, and independence are the go to goals, what can be accepted on our way until we are there? Countering the risks of integrated platforms  We are looking forward to this exciting conference and to discussing Open Operations and digital sovereignty with you!
+
+Insights into running Gaia-X Federation Services on Sovereign Cloud Stack
+
+Do you want to understand the Gaia-X Federation Services project and how the various services are developed on top of SCS infrastructure? Join us during a first lightning talk by Sven on Thursday, 2022-12-08 at 15:45 CET and during a deep dive session on Monday, 2023-01-16 at 15:05 CET.
+
+Recordings and more interesting video content on YouTube
+
+Did you know that we have a channel on YouTube where we provide you with various content, e.g. recordings of our lightning talks or a curated Sovereign Cloud Stack on Tour playlist? Maybe you want to listen again to the great lightning talk by Dr. Markus Leberecht from Intel on Confidential Computing? This is your chance! Don't forget to leave us a thumbs up or a subscription!
+
+Thank you for being part of our first SCS Community Hackathon
+
+We’re still overwhelmed by the impressions of our first Community Hackathon. Thank you so much for spending an amazing day with us in Cologne and making a significant contribution to the success of this event! Did you enjoy our first Community Hackathon? What shall we repeat and what can be improved? Let us know so that the next Community Hackathon will be a second blast!
+
+Hands-On Session: SCS from the ground up
+
+Due to high demand, we will offer a second hands-on session on "SCS from the ground up". Join us on Friday, 2022-12-09 at 13:05 CET and learn how to deploy a SCS testbed, create Kubernetes clusters and how everything works nicely together. This is the ideal session to kick-start your journey on becoming a SCS-afficiando!

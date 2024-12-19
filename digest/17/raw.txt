@@ -1,0 +1,21 @@
+Community, after some exciting weeks on various events, we're back in full working mode and happy to provide you with yet another update on what has happened in our community. This issue of our community digest provides you with some important information on our public calendar and with interesting resources worth seeing. Enjoy reading and see you next week during our meetings!
+
+Public calendar
+
+We have been working hard over the past few days to offer you an easy way to collaboratively maintain our public calendar. Good news, everyone! You can now announce a meeting to the community by pushing to our new calendar repository on GitHub. Ad-hoc hacking sessions or interesting lightning talks are highly appreciated and you can add them yourself! Check out our new Contributor's page and subscribe to the new public community calendar. Pro tip: You can watch the underlying repository to get instantly informed about changes to our schedule.
+
+OpenInfra Summit 2022 – Class reunion of our community
+
+Two weeks after this year’s OpenInfra Summit in Berlin we are still overwhelmed by the impressions of those three days at the Berlin Conference Center (bcc). Felix and Eduard have published a blog post with some recordings worth seeing and a personal recap of this exciting event.
+
+Grüezi! Visiting Switzerland
+
+Kurt was invited to talk about digital sovereignty and SCS at the Parldigi-Dinner in Bern. The parliamentary group "Digital Sustainability" promotes the digitally sustainable usage of commons through parliamentary initiatives, dinner events, open hearings, media releases and blog entries. Check out the recording available on YouTube, which gives a very good overview of SCS and our joint mission.
+
+Gaia-X Magazine #1
+
+The Gaia-X magazine is a quarterly journal publishing the finest research in the data space ecosystem. Manuela and Eduard have compiled an article about SCS that is worth reading and provides an interesting starting point for the Gaia-X community to join our forces.
+
+Two tenders are open for application
+
+We're happy to announce that the two tenders SCS certification and Container Registry / Scanning have been published this week and are open for application until 2022-07-19 respectively 2022-07-21. We're looking forward to receiving your offers!

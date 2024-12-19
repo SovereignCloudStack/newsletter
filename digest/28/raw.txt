@@ -1,0 +1,29 @@
+Community, Are you counting the days until the release of SCS R4 just as we do? With only less than a week left until release day, we want to highlight the most important topics within our community and share some inspiring topics with you. Furthermore, we are thrilled to introduce a brand new format within our Community Digest: The Community Hero Spotlight. With each issue of this newsletter, we will introduce you to one of the many precious members of our community. Let's roll out the red carpet for our frosty geek!
+
+SCS Release 4 on the horizon
+
+For our more active community members, SCS Release 4 has been on the radar for a few weeks now, as it was covered in both the Product Board and our Community Call. Further hints, such as the upgrade note for the gx-scs environment are clear signs, SCS Release 4 is on the horizon! The release date for SCS Release 4 has been set for March 22nd, 2023.
+
+Let's put the cloud in a box
+
+Kurt and Eduard jointly published a blog post on our recent progress with developing a small but yet fully-fledged cloud environment on a single-node system that allows developing and testing our reference implementation.
+
+CHAOSS at SCS
+
+Quick reminder: A wild lightning talk appeared! Georg Link from Bitergia will introduce us into the Community Health Analytics in Open Source Software (CHAOSS) project on 2023-03-30. We're looking forward to connecting!
+
+Sovereign Cloud Stack Community Summit 2023
+
+Join us on 23rd and 24th of May 2023 in Berlin for our first Sovereign Cloud Stack Summit. Bring along your colleagues and let us gather, share knowledge, as well as experience and – of course – network and have fun.
+
+Automated Compliance Checks for SCS-Compatible Clouds
+
+We are excited to announce that we have implemented automated compliance checks for SCS compatible clouds. These checks are currently done via GitHub Actions, and soon we plan to move to the upcoming Zuul infrastructure.
+
+Contribute to discussion on Container Registry
+
+Team dNation started two important discussions on finding the best approach for a container registry as-a-service solution: Is the shared-storage model in Harbor a limitation for CSPs? Which container registry use cases are relevant for CSPs? Your feedback is highly appreciated and helps us a lot!
+
+Community Hero Spotlight: Ralf
+
+Ralf is an accomplished technology professional, a passionate open-source enthusiast at heart and a highly appreciated member of the SCS community. He's working for PlusServer GmbH and part of the team that is building the pluscloud open. Make sure to check is recent blog postings!

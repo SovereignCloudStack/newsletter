@@ -1,0 +1,29 @@
+Dear Community, during the last weeks you prove to be a very active community. Every team is making progress, in every SIG there are important topics discussed. This activity is needed for the next weeks as well, make our project more secure, more resilient, more automated, more sporty. In this digest we ask for your opinion and your engagement. Join our activities! We wish you a pleasant and active summertime!
+
+Get your butts up!
+
+In our sports event this year we compete in random teams of 3-4 members in: running, hiking, cycling, swimming! If you want to join our sport event, sign up. The teams will be triggered by the SIG Community anonymized. This year we don´t have minimum requirements, so do what you can! Every kilometer counts, this is a sponsored event, the more you achieve, the more money will be collected.
+
+Meeting SIG Documentation and SIG Community
+
+Our SIGs Documentation and Community are working on improving our docs and organize our community to spread the word and get easier into the SCS world! You are cordially invited! But do day and time fit for you - Monday 11:05 - 11:55 CEST/CET? In our poll we suggest four dates, please vote for the day and time you would prefer to join our wonderful SIGs!
+
+We can have a Researcher
+
+Since the first of July we have a new member in our SCS-Team: Nadja Schieber, from Bremen, she is IT Specialist for Application Development and soon to be BSc. in Business Informatics. At SCS she support the project as Researcher Open Source Governance. With her we will figure out how the future of SCS will look like. Welcome Nadja, great to have you on board!
+
+Sponsors wanted!
+
+This year our sport event will be sponsored. We run, hike, cycle or swim as long as we can and You, as a sponsor, give money for the achieved distance (rules are announced soon). And we donate the colleced sum to a social digitization project. You ask which one? Learn more about it in our poll and vote for your favorite project.
+
+The 5th CloudService Provider
+
+Recently we found a new partner and are happy to announce the 5th Cloud Service Provider using SCS technology to offer sovereign cloud services to their customers. Based on open source, using open standards and connecting to the best community ever: aov IT Services!
+
+Save the date
+
+Next big SCS Hackathon #3 will happen on 2023-11-08 in Dresden at Cloud & Heat! CLOUD&HEAT Technologies GmbH, Königsbrücker Str. 96/Halle 15, 01099 Dresden. Save the date! Topics and organizational issues follow soon.
+
+SCS at DOST
+
+The Call for Proposals is still open till 31th of July for DOST [Deutsche Open Source Tage](https://deutsche-opensource-tage.de/) in November in Berlin. SCS is an important part of the German (and not only German...) open source communities, so we would love to have a lot of talks at the conference from and about SCS. Think about submitting a talk, let´s brainstorm topics, and become present at DOST.
